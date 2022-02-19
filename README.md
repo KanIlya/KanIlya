@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KanIlya
+- 👀 I’m interested in Data Science, Data Analysis
+- 🌱 I’m currently learning ML
+- 📫 How to reach me: kanilya1@gmail.com
